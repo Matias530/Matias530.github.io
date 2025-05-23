@@ -1,0 +1,9 @@
+.container-presentacion{
+    height: 400px;
+}
+
+@media(max-width: 768px){
+    .container-presentacion{
+        height: 600px;
+    }
+}
